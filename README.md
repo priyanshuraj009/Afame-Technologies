@@ -1,2 +1,2 @@
-# Afame-Technologies-
+# Afame-Technologies
 CREDIT CARD FRAUD DETECTION
