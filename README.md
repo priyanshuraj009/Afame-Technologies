@@ -109,14 +109,4 @@ Open a Pull Request, and describe the changes you’ve made. We'll review it as 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Output
-
-After running the models, all results (such as confusion matrices, accuracy scores, classification reports, and saved models) will be stored in the `output` folder. This ensures that the results are organized and easily accessible for further analysis.
-
-### Output Files:
-- **confusion_matrix.png**: Visual representation of the confusion matrix.
-- **classification_report.txt**: Contains the precision, recall, and F1-score.
-- **model.pkl**: The saved model for future use.
-
-The `output` folder will be automatically created if it doesn't exist, and all results will be saved there after running the code.
 
