@@ -109,22 +109,11 @@ Open a Pull Request, and describe the changes you’ve made. We'll review it as 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Output Directory
+## Screenshots
+![Decision Tree Output](output/Decision%20Tree%20Output.png)
+![Random Forest Output](output/Random%20Forest%20Output.png)
+![Logistic Regression Output](output/Logistic%20Regression%20Output.png)
 
-The results of the model evaluation (such as confusion matrices and other visualizations) are stored in the `/output/` directory. After running the models, you can view the outputs saved in this folder.
-
-### Available Output Files:
-- **Decision Tree Output.png**: Confusion matrix of the Decision Tree model.
-- **Logistic Regression Output.png**: Confusion matrix of the Logistic Regression model.
-- **Random Forest Output.png**: Confusion matrix of the Random Forest model.
-
-These files are automatically generated and saved after the models are evaluated. You can find them in the `/output/` folder at the root of the project.
-
-### How the Output is Generated:
-- After running the script, the confusion matrix for each model is saved as a PNG file in the `output/` directory.
-- Each file is named according to the model used, making it easy to identify the results.
-
-Make sure that the `/output/` folder is available in the project directory after running the code.
 
 
 
